@@ -1,0 +1,7 @@
+.bookcover {
+	background-image: url( ../images/nicehotel.png);
+	background-size: cover;
+	width: 100%;
+	height: 1080px;
+}
+h1{font-family: 'Kaushan Script', cursive;}
